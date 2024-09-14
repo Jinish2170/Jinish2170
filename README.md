@@ -1,3 +1,4 @@
+[portfolio](https://jinish2170.github.io/)
 ### Hi there 👋
 
 I'm **Jinish Kathiriya**, deeply passionate about the intersection of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Cybersecurity**. My journey in these fields has been a thrilling exploration of how cutting-edge technologies can revolutionize security practices and enhance intelligence systems. I envision leveraging my expertise to contribute significantly to the cybersecurity landscape while pushing the boundaries of AI and ML innovations.
