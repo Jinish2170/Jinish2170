@@ -1,23 +1,21 @@
-[portfolio](https://jinish2170.github.io/)
-### Hi there 👋
 
-I'm **Jinish Kathiriya**, deeply passionate about the intersection of **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Cybersecurity**. My journey in these fields has been a thrilling exploration of how cutting-edge technologies can revolutionize security practices and enhance intelligence systems. I envision leveraging my expertise to contribute significantly to the cybersecurity landscape while pushing the boundaries of AI and ML innovations.
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;I'm+Jinish+Kathiriya!;AI+%26+ML+Engineer;Cybersecurity+Specialist&center=true&size=30&color=58a6ff&background=0d1117">
+</h2>
+<div align="center">
+  
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+</div>
 
-In addition to my technical expertise, I have a passion for **video editing** using **Adobe Premiere Pro**, where I enjoy bringing creative visions to life through compelling visuals.
 
-🔭 I’m currently working on advancing my skills in AI and ML through personal projects and online courses.
+<h3 align="center">📫Connect with me </h3>
+<div align="center">
 
-🌱 I’m learning advanced techniques in deep learning and exploring new developments in cybersecurity.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinish-kathiriya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JinishKathiriya)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinish2170)
 
-👯 I’m looking to collaborate on AI, ML, and cybersecurity projects where I can contribute my skills and expertise.
-
-💬 Ask me about AI, ML, cybersecurity, or video editing using Adobe Premiere Pro!
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/jinish-kathiriya-b75ba124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [GitHub](https://github.com/Jinish2170), and  [Twitter](https://x.com/JinishKathiriya?t=kZjYIxFxDidHI17__PF72Q&s=09)
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I love to travel and explore new cultures whenever I get the chance!
+</div>
 
 ---
 
@@ -65,7 +63,7 @@ Here are some of the projects I've worked on:
 
 - **[Web Assistant AI](https://github.com/Jinish2170/Web-Assistant-AI.git)**: A speech recognition-based assistant integrated with web search capabilities, designed to streamline workflows and improve the browsing experience.
 
-Explore more on my [GitHub](https://github.com/Jinish2170).
+Explore more on my [portfolio](https://jinish2170.github.io/).
 
 ---
 
