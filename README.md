@@ -5,17 +5,7 @@
 <div align="center">
   
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-</div>
 
-
-<h3 align="center">📫Connect with me </h3>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinish-kathiriya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JinishKathiriya)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinish2170)
-
-</div>
 
 ---
 
@@ -67,10 +57,12 @@ Explore more on my [portfolio](https://jinish2170.github.io/).
 
 ---
 
-### 📫 Get in Touch
+<h3 align="center">📫Connect with me </h3>
+<div align="center">
 
-- LinkedIn: [Jinish Kathiriya](https://www.linkedin.com/in/jinish-kathiriya-b75ba124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Twitter: [@JinishKathiriya](https://x.com/JinishKathiriya?t=kZjYIxFxDidHI17__PF72Q&s=09)
-- GitHub: [Jinish2170](https://github.com/Jinish2170)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinish-kathiriya)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JinishKathiriya)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinish2170)
+
 
 Let's connect and collaborate on exciting projects together!
