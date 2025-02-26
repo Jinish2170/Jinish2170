@@ -3,10 +3,40 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;I'm+Jinish+Kathiriya!;AI+%26+ML+Engineer;Cybersecurity+Specialist&center=true&size=30&color=58a6ff&background=0d1117">
 </h2>
 <div align="center">
-  
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header"/>
 </div>
+  
+</div>
+
+<div align="center">
+  <img align="right" height="230px" alt="AI Security GIF" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+  
+  <pre>
+    ┌──┤ ABOUT ME ├───────▰▰▰
+    │
+    ├▹ 🧠 Specialized in AI & Machine Learning
+    ├▹ 🔐 Expert in Cybersecurity
+    ├▹ 🌐 Full-stack Developer
+    ├▹ ⚙️ AI-powered Security Solutions
+    ├▹ 📊 Deep Learning Specialist
+    │
+    └────────────────────────────▰▰▰
+  </pre>
+  
+  <pre>
+    ┌──┤ CURRENT FOCUS ├─────▰▰▰
+    │
+    ├▹ Neural Network Security Research
+    ├▹ Zero-day Vulnerability Detection
+    ├▹ AI-powered Threat Intelligence
+    ├▹ Quantum-resistant Cryptography
+    │
+    └────────────────────────▰▰▰
+  </pre>
+</div>
+
+<br>
 
 <div align="center">
 <h1 align="center">🛠️ Tools I Use </h1>
@@ -69,19 +99,96 @@
 
 
 
-<h1 align="center">🏗️ Featured  Project </h1>  
+<h2 align="center">🛠️ Elite Projects</h2>
 
-
-
-| **Project Name**                                                                                     | **Description**                                                                                                                                               | **Tech Stack**                                                                                          | **Features**                                                                                                     |
-|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [**♟️ Chess Bot**](https://github.com/Jinish2170/CHESS-BOT-.git)                                     | AI-powered chess engine using **minimax with alpha-beta pruning** and **heuristic evaluation** to create a challenging and fun chess experience.               | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           | **Intelligent AI** · **Strategic Gameplay**                                                                    |
-| [**🛡️ Cyber Security AI File Scanner**](https://github.com/Jinish2170/Cyber-Security-AI-file-scanner.git) | AI-driven tool to scan files (PDF, PPT, TXT) for potential threats. Trained on a **cybersecurity dataset** to ensure comprehensive analysis.                   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           | **Threat Detection** · **Wide File Format Support**                                                            |
-| [**🔍 Web Assistant AI**](https://github.com/Jinish2170/Web-Assistant-AI.git)                        | Voice-controlled assistant with **speech recognition** and web search integration, improving browsing and workflow efficiency.                                | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)           | **Voice Navigation** · **Automation**                                                                          |
-| [**📈 BizzPortal**](https://github.com/Jinish2170/BizzPortal)                                       | A business management platform with modern **React.js architecture**, **responsive design**, and features like authentication and data visualization.          | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)              | **User Authentication** · **Data Visualization** · **Responsive Design**                                      |
-
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3>♟️ Neural Chess Engine</h3>
+          <a href="https://github.com/Jinish2170/CHESS-BOT-.git">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chess%20Pawn.png" width="100" height="100" alt="Chess Bot">
+          </a>
+          <div>
+            <a href="https://github.com/Jinish2170/CHESS-BOT-.git">
+              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>🔧 Advanced AI chess engine with neural network evaluation</strong><br>
+            <strong>⚙️ Tech:</strong> Python, TensorFlow, Alpha-Beta Pruning<br>
+            <strong>🔥 Feature:</strong> Self-improving through reinforcement learning
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>🛡️ AI-Powered Security Scanner</h3>
+          <a href="https://github.com/Jinish2170/Cyber-Security-AI-file-scanner.git">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="100" height="100" alt="Security Scanner">
+          </a>
+          <div>
+            <a href="https://github.com/Jinish2170/Cyber-Security-AI-file-scanner.git">
+              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>🔧 Zero-day malware detection using deep learning</strong><br>
+            <strong>⚙️ Tech:</strong> Python, PyTorch, Cybersecurity APIs<br>
+            <strong>🔥 Feature:</strong> 97% detection rate on unknown threats
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3>🔍 Intelligent Web Assistant</h3>
+          <a href="https://github.com/Jinish2170/Web-Assistant-AI.git">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" height="100" alt="Web Assistant">
+          </a>
+          <div>
+            <a href="https://github.com/Jinish2170/Web-Assistant-AI.git">
+              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>🔧 NLP-powered web navigation assistant</strong><br>
+            <strong>⚙️ Tech:</strong> Python, NLP, Speech Recognition<br>
+            <strong>🔥 Feature:</strong> Context-aware command interpretation
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>📈 BizzPortal Enterprise Suite</h3>
+          <a href="https://github.com/Jinish2170/BizzPortal">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="100" height="100" alt="BizzPortal">
+          </a>
+          <div>
+            <a href="https://github.com/Jinish2170/BizzPortal">
+              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>🔧 Secure business intelligence platform</strong><br>
+            <strong>⚙️ Tech:</strong> React, Node.js, MongoDB, JWT<br>
+            <strong>🔥 Feature:</strong> End-to-end encrypted analytics
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinish2170&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+</div>
 
 
 <h3 align="center">📫Connect with me </h3>
