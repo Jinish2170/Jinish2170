@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img align="right" height="220px" alt="AI Security GIF" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+  <img align="right" alt="Coding" width="306" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   
   <pre>
     ┌──┤ ABOUT ME ├───────▰▰▰
@@ -34,6 +34,11 @@
     │
     └────────────────────────▰▰▰
   </pre>
+
+<a href="https://github.com/Jinish2170"><img src="https://komarev.com/ghpvc/?username=Jinish2170&style=for-the-badge&color=blueviolet"></a>
+[![GitHub followers](https://img.shields.io/github/followers/Jinish2170?logo=GitHub&style=for-the-badge)](https://github.com/Jinish2170)
+[![GitHub Stars](https://img.shields.io/github/stars/Jinish2170?logo=github&style=for-the-badge)](https://github.com/Jinish2170)
+
 </div>
 
 <br>
