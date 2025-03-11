@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img align="right" alt="Coding" width="220" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+  <img align="right" alt="Coding" width="270" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
   
   <pre>
     ┌──┤ ABOUT ME ├───────▰▰▰
