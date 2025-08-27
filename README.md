@@ -129,7 +129,7 @@
         <div align="center">
           <h3>🏠 Property_renting-V2.0.0</h3>
           <a href="https://github.com/Jinish2170/Property_renting-V2.0.0">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="90" height="90" alt="Property_renting-V2.0.0">
+            <span style="font-size:100px;" width="90" height="90" >🏠</span>
           </a>
           <div>
             <a href="https://github.com/Jinish2170/Property_renting-V2.0.0">
