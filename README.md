@@ -102,8 +102,6 @@
 
 </div>
 
-
-
 <h2 align="center">🛠️ Elite Projects</h2>
 
 <div align="center">
@@ -111,39 +109,36 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <h3>♟️ Neural Chess Engine</h3>
-          <a href="https://github.com/Jinish2170/CHESS-BOT-.git">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chess%20Pawn.png" width="100" height="100" alt="Chess Bot">
+          <h3>🗨️ Talknotes</h3>
+          <a href="https://github.com/Jinish2170/Talknotes">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Notepad.png" width="90" height="90" alt="Talknotes">
           </a>
           <div>
-            <a href="https://github.com/Jinish2170/CHESS-BOT-.git">
-              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            <a href="https://github.com/Jinish2170/Talknotes">
+              <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
             </a>
           </div>
           <br>
           <p>
-            <strong>🔧 Advanced AI chess engine with neural network evaluation</strong><br>
-            <strong>⚙️ Tech:</strong> Python, TensorFlow, Alpha-Beta Pruning<br>
-            <strong>🔥 Feature:</strong> Self-improving through reinforcement learning
+            <strong>🔧 Voice-to-text note-taking app</strong><br>
+            <strong>⚙️ Tech:</strong> JavaScript
           </p>
         </div>
       </td>
       <td width="50%">
         <div align="center">
-          <h3>🛡️ AI-Powered Security Scanner</h3>
-          <a href="https://github.com/Jinish2170/Cyber-Security-AI-file-scanner.git">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="100" height="100" alt="Security Scanner">
+          <h3>🏠 Property_renting-V2.0.0</h3>
+          <a href="https://github.com/Jinish2170/Property_renting-V2.0.0">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/House.png" width="90" height="90" alt="Property_renting-V2.0.0">
           </a>
           <div>
-            <a href="https://github.com/Jinish2170/Cyber-Security-AI-file-scanner.git">
+            <a href="https://github.com/Jinish2170/Property_renting-V2.0.0">
               <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
             </a>
           </div>
           <br>
           <p>
-            <strong>🔧 Zero-day malware detection using deep learning</strong><br>
-            <strong>⚙️ Tech:</strong> Python, PyTorch, Cybersecurity APIs<br>
-            <strong>🔥 Feature:</strong> 97% detection rate on unknown threats
+            <strong>🔧 Advanced property rental management system</strong>
           </p>
         </div>
       </td>
@@ -151,39 +146,75 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <h3>🔍 Intelligent Web Assistant</h3>
-          <a href="https://github.com/Jinish2170/Web-Assistant-AI.git">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="100" height="100" alt="Web Assistant">
+          <h3>🌐 BigTechTimes</h3>
+          <a href="https://github.com/Jinish2170/BigTechTimes">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="90" height="90" alt="BigTechTimes">
           </a>
           <div>
-            <a href="https://github.com/Jinish2170/Web-Assistant-AI.git">
-              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            <a href="https://github.com/Jinish2170/BigTechTimes">
+              <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
             </a>
           </div>
           <br>
           <p>
-            <strong>🔧 NLP-powered web navigation assistant</strong><br>
-            <strong>⚙️ Tech:</strong> Python, NLP, Speech Recognition<br>
-            <strong>🔥 Feature:</strong> Context-aware command interpretation
+            <strong>🔧 Community tech news website</strong><br>
+            <strong>⚙️ Tech:</strong> JavaScript
           </p>
         </div>
       </td>
       <td width="50%">
         <div align="center">
-          <h3>📈 BizzPortal Enterprise Suite</h3>
-          <a href="https://github.com/Jinish2170/BizzPortal">
-            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="100" height="100" alt="BizzPortal">
+          <h3>📈 BIZZ_PORTAL</h3>
+          <a href="https://github.com/Jinish2170/BIZZ_PORTAL">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="90" height="90" alt="BIZZ_PORTAL">
           </a>
           <div>
-            <a href="https://github.com/Jinish2170/BizzPortal">
-              <img src="https://img.shields.io/badge/CODE-2F333A?style=for-the-badge&logo=github&logoColor=white">
+            <a href="https://github.com/Jinish2170/BIZZ_PORTAL">
+              <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript">
             </a>
           </div>
           <br>
           <p>
-            <strong>🔧 Secure business intelligence platform</strong><br>
-            <strong>⚙️ Tech:</strong> React, Node.js, MongoDB, JWT<br>
-            <strong>🔥 Feature:</strong> End-to-end encrypted analytics
+            <strong>🔧 Enterprise business portal</strong><br>
+            <strong>⚙️ Tech:</strong> TypeScript
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <h3>📰 AI-Powered Personalized News Aggregator</h3>
+          <a href="https://github.com/Jinish2170/AI-Powered-Personalized-News-Aggregator">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="90" height="90" alt="AI-Powered News Aggregator">
+          </a>
+          <div>
+            <a href="https://github.com/Jinish2170/AI-Powered-Personalized-News-Aggregator">
+              <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript">
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>🔧 Personalized AI-powered news curation</strong><br>
+            <strong>⚙️ Tech:</strong> JavaScript
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <h3>📊 Skill-Tracker</h3>
+          <a href="https://github.com/Jinish2170/Skill-Tracker">
+            <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="90" height="90" alt="Skill-Tracker">
+          </a>
+          <div>
+            <a href="https://github.com/Jinish2170/Skill-Tracker">
+              <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+            </a>
+          </div>
+          <br>
+          <p>
+            <strong>🔧 Personal skill tracking tool</strong><br>
+            <strong>⚙️ Tech:</strong> C++
           </p>
         </div>
       </td>
