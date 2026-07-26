@@ -13,8 +13,9 @@ Building AI systems that do real work — threat intelligence, OSINT automation,
 
 | Project | What It Does |
 |---------|-------------|
-| [**Echo-OSINT**](https://github.com/Jinish2170/Echo-OSINT) | TypeScript OSINT engine — belief-space reasoning, 50+ platform recon, automated intelligence briefs |
 | [**BenardAI**](https://github.com/Jinish2170/BenardAI) | AI threat triage workstation — NVIDIA NIM + YARA + MITRE ATT&CK + VirusTotal integration |
+| [**phantom-stealth**](https://github.com/Jinish2170/phantom-stealth) | 10K-line stealth browser engine — AI vision, fingerprint spoofing, behavioral synthesis, anti-detection |
+| [**Echo-OSINT**](https://github.com/Jinish2170/Echo-OSINT) | OSINT engine with belief-space reasoning, 50+ platform recon, automated intelligence briefs |
 | [**Hybrid-Rag**](https://github.com/Jinish2170/Hybrid-Rag) | Local RAG pipeline with Weaviate + Ollama + LangChain, query routing & web fallback |
 
 ---
