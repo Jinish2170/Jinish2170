@@ -1,34 +1,26 @@
 # Jinish Kathiriya
 
-**GenAI Engineer** · Surat, India
+**AI Engineer** · agentic systems and production integrations · Surat, India
 
-Building AI systems that do real work — threat intelligence, OSINT automation, and retrieval-augmented pipelines.
+I build AI systems that take real actions: multi-agent pipelines, retrieval systems, and the integrations that connect them to the tools people already use.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jinish-kathiriya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github-pages&logoColor=white)](https://jinish2170.github.io)
+## Featured projects
 
----
+**[ELLIOT](https://github.com/Jinish2170/elliotAI)** · Multi-agent forensic web auditor
+Five-phase LangGraph pipeline (Scout, Security, Vision, Graph, Judge) that audits a website for dark patterns, phishing signals and security gaps, then produces a scored trust report. Vision-language model analysis of screenshots, real-time WebSocket streaming, FastAPI + Next.js.
 
-### What I Build
+**[Bernard](https://github.com/Jinish2170/BenardAI)** · Self-hosted AI threat triage
+Drop a file or URL, get a verdict where every claim is cited to evidence. NVIDIA NIM inference, YARA rule matching, MITRE ATT&CK mapping, multi-source threat intel. FastAPI + React.
 
-| Project | What It Does |
-|---------|-------------|
-| [**BenardAI**](https://github.com/Jinish2170/BenardAI) | AI threat triage workstation — NVIDIA NIM + YARA + MITRE ATT&CK + VirusTotal integration |
-| [**phantom-stealth**](https://github.com/Jinish2170/phantom-stealth) | 10K-line stealth browser engine — AI vision, fingerprint spoofing, behavioral synthesis, anti-detection |
-| [**Echo-OSINT**](https://github.com/Jinish2170/Echo-OSINT) | OSINT engine with belief-space reasoning, 50+ platform recon, automated intelligence briefs |
-| [**Hybrid-Rag**](https://github.com/Jinish2170/Hybrid-Rag) | Local RAG pipeline with Weaviate + Ollama + LangChain, query routing & web fallback |
+**[Hybrid-RAG](https://github.com/Jinish2170/Hybrid-Rag)** · Local-first retrieval pipeline
+Vector search over Weaviate with query routing and web fallback, running fully offline on Ollama. No API keys, no cloud.
 
----
+## Production work
 
-### Stack
+- **Agentic support platform migration** (via Avrut Solutions): built the Zendesk, Intercom, Front, Freshdesk, Shopify and Google Drive integrations, including OAuth and webhooks, that let an AI agent act on behalf of human support agents. Shopify Admin API tools and App Store listing.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat&logo=nvidia&logoColor=white)
+## Stack
 
----
+Python · TypeScript · LangGraph · DSPy · FastAPI · Next.js · React · Postgres · Redis · Weaviate · Pinecone · NVIDIA NIM · Ollama · Playwright
 
-B.E. Computer Engineering, GTU '26 · GDG Tech Head
+[Portfolio](https://jinish2170.github.io) · [LinkedIn](https://www.linkedin.com/in/jinish-kathiriya)
