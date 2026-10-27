@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-label="ELLIOT pipeline: Scout, Security, Vision, Graph, Judge.">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#16203d"/>
+      <stop offset="1" stop-color="#0f172e"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1000" height="200" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1000" height="200" fill="#0b1020"/>
+    <rect width="1000" height="200" fill="#ffffff" fill-opacity="0.02"/>
+
+    <!-- connector line -->
+    <path d="M110 84 H890" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.85"/>
+    <circle r="5" fill="#22d3ee">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M110 84 H890"/>
+    </circle>
+
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
+      <!-- nodes -->
+      <g>
+        <rect x="40" y="44" width="140" height="80" rx="12" fill="url(#card)" stroke="#22d3ee" stroke-opacity="0.6"/>
+        <text x="110" y="78" font-size="12" fill="#22d3ee" letter-spacing="2">01</text>
+        <text x="110" y="104" font-size="20" font-weight="700" fill="#f8fafc">Scout</text>
+        <text x="110" y="156" font-size="13" fill="#94a3b8">Crawl and DOM</text>
+        <text x="110" y="173" font-size="13" fill="#94a3b8">extraction</text>
+      </g>
+      <g>
+        <rect x="240" y="44" width="140" height="80" rx="12" fill="url(#card)" stroke="#22d3ee" stroke-opacity="0.6"/>
+        <text x="310" y="78" font-size="12" fill="#22d3ee" letter-spacing="2">02</text>
+        <text x="310" y="104" font-size="20" font-weight="700" fill="#f8fafc">Security</text>
+        <text x="310" y="156" font-size="13" fill="#94a3b8">Headers, forms,</text>
+        <text x="310" y="173" font-size="13" fill="#94a3b8">phishing checks</text>
+      </g>
+      <g>
+        <rect x="440" y="44" width="140" height="80" rx="12" fill="url(#card)" stroke="#a78bfa" stroke-opacity="0.7"/>
+        <text x="510" y="78" font-size="12" fill="#a78bfa" letter-spacing="2">03</text>
+        <text x="510" y="104" font-size="20" font-weight="700" fill="#f8fafc">Vision</text>
+        <text x="510" y="156" font-size="13" fill="#94a3b8">VLM reads page</text>
+        <text x="510" y="173" font-size="13" fill="#94a3b8">screenshots</text>
+      </g>
+      <g>
+        <rect x="640" y="44" width="140" height="80" rx="12" fill="url(#card)" stroke="#a78bfa" stroke-opacity="0.7"/>
+        <text x="710" y="78" font-size="12" fill="#a78bfa" letter-spacing="2">04</text>
+        <text x="710" y="104" font-size="20" font-weight="700" fill="#f8fafc">Graph</text>
+        <text x="710" y="156" font-size="13" fill="#94a3b8">Entity and link</text>
+        <text x="710" y="173" font-size="13" fill="#94a3b8">investigation</text>
+      </g>
+      <g>
+        <rect x="840" y="44" width="140" height="80" rx="12" fill="url(#card)" stroke="url(#accent)" stroke-width="2"/>
+        <text x="910" y="78" font-size="12" fill="#f8fafc" letter-spacing="2">05</text>
+        <text x="910" y="104" font-size="20" font-weight="700" fill="#f8fafc">Judge</text>
+        <text x="910" y="156" font-size="13" fill="#94a3b8">Weighted score</text>
+        <text x="910" y="173" font-size="13" fill="#94a3b8">and verdict</text>
+      </g>
+    </g>
+    <!-- arrow heads -->
+    <g fill="#22d3ee" fill-opacity="0.8">
+      <path d="M236 84 l-9 -5.5 v11 z"/>
+      <path d="M436 84 l-9 -5.5 v11 z"/>
+      <path d="M636 84 l-9 -5.5 v11 z"/>
+      <path d="M836 84 l-9 -5.5 v11 z"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="199" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+</svg>
